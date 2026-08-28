@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Minha Ficha de Dev</title>
+</head>
+<body>
+<h1>Desenvolvedor: {Aryane de Cassia Costa Couto}</h1>
+<p>strong>curso:</strong> Introducao a Programacao</p>
+<p><strong>Tecnologia que quero aprender:</strong> {programacao}</p>
+<<p><strong>Projeto publicado via :< /strong> GitHub Web</p>
+</body>
+</html>
+
